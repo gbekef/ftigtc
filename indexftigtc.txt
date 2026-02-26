@@ -5,11 +5,11 @@
   <title>Redirecting...</title>
 
   <!-- Meta refresh fallback -->
-  <meta http-equiv="refresh" content="0; url=https://vhchurch.org/">
+  <meta http-equiv="refresh" content="0; url=https://vhchurch.org">
 
   <script>
     // JavaScript redirect (preferred)
-    window.location.replace("https://vhchurch.org/");
+    window.location.replace("https://vhchurch.org");
   </script>
 </head>
 <body>
